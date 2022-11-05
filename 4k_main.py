@@ -338,11 +338,8 @@ class Ui_MainWindow(object):  # GUI界面
         self.p.show()
 
     def connect(self):  # 联系方式
-
-        from settings import Connect
-
-        self.c = Connect.Ui_MainWindow()
-        self.c.show()
+        
+        return self.pay()
 
     def download_thread(self):
 
