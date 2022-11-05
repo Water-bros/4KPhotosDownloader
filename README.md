@@ -25,6 +25,6 @@
 
 如有疑问，可以联系作者Water_bros哦！(支持微信打赏)
 
-打赏：![微信收款码](https://github.com/Water-bros/4kPhotoDownloader/icon/pay.jpg)
+打赏：![微信收款码](https://github.com/Water-bros/4KPhotosDownloader/blob/main/icon/pay.jpg)
 
 <center> @CopyRight © 2022 Water_bros,All Rights Reserved. </center>
